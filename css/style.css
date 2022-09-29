@@ -1,0 +1,141 @@
+*{margin: 0%;}
+h1{
+    height: 100px;
+    background-color: black;
+    color: aqua;
+    display: inline;
+    font-size: 35px;
+}
+header{
+    background-color: cornflowerblue;
+    color: black;
+    height: 90px;
+    font-size: 40px;
+    text-align: center;
+}
+.body{
+    overflow: hidden;
+}
+.body_left{
+    height: 600px;
+    width: 25%;
+    float: left;
+    background-color: beige;
+}
+.body_middle{
+    height: 600px;
+    width: 50%;
+    background-color: olivedrab;
+    color: indigo;
+    font-size: 30px;
+    text-align: center;
+    float: left;
+}
+.body_right{
+    height: 600px;
+    width: 25%;
+    float: left;
+    background-color: beige;
+}
+.body_left{
+}
+.body_left_top{
+    height: 200px;
+    width: 280px;
+    background-color: lightgreen;
+    color: indigo;
+    text-align: center;
+}
+.body_left_middle{
+    height: 200px;
+    width: 280px;
+    background-color: mediumspringgreen;
+    color: indigo;
+    text-align: center;
+}
+.body_left_bottom{
+    height: 200px;
+    width: 280px;
+    background-color: darkgreen;
+    color: indigo;
+    text-align: center;
+}
+.body_right{
+    overflow: hidden;
+}
+.body_right_top{
+    height: 200px;
+    width: 280px;
+    background-color: lightgreen;
+    color: indigo;
+    text-align: center;
+}
+.body_right_middle{
+    height: 200px;
+    width: 280px;
+    background-color: mediumspringgreen;
+    color: indigo;
+    text-align: center;
+}
+.body_right_bottom{
+    height: 200px;
+    width: 280px;
+    background-color: darkgreen;
+    color: indigo;
+    text-align: center;
+}
+.art{
+    overflow: hidden;
+}
+.art_1{
+    height: 300px;
+    width: 20%;
+    background-color: burlywood;
+    float: left;
+}
+.art_2{
+    height: 300px;
+    width: 20%;
+    background-color: rgb(116, 57, 29);
+    float: left;
+}
+.art_3{
+    height: 300px;
+    width: 20%;
+    background-color: rgb(49, 24, 7);
+    float: left;
+}
+.art_4{
+    height: 300px;
+    width: 20%;
+    background-color: rgb(26, 14, 6);
+    float: left;
+}
+.art_5{
+    height: 300px;
+    width: 20%;
+    background-color: rgb(16, 10, 5);
+    float: left;
+}
+footer{
+    height: 70px;
+    background-color: grey;
+    color: black;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
